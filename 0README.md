@@ -5,6 +5,6 @@ Files are named according to the rule: name_id.cpp OR nameid.cpp. If they do NOT
 Note that the name may contain numbers or spaces(the spaces were replaced by "_"), so i suggest you to use the id to search the problems on the website.
 Also, files containing "BAC" in their name are subjects from the Bacalaureat Exam - final high school exam in Romania - you can find the subjects on the website.
 
-Egg.  fmi_orase1_3297.cpp  name="fmi orase1" , id=3297;
+E.g.: fmi_orase1_3297.cpp  name="fmi orase1" , id=3297;
       2maxim119.cpp        name="2maxim" , id=119;
       BAC2021-T8.cpp
