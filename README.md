@@ -1,4 +1,3 @@
-#highschool-code
 These are all my problems i solved in high school (mostly in the third and forth year).
 Most of the problems are taken from pbinfo.ro website - my solutions got 100 points (max).
 You can also find the problems i solved, the files upploaded in this repository contain the name of the problem and the id of that problem.
